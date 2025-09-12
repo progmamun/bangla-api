@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "2",
     "name": "ড. মোঃ ফখরুল ইসলাম",
     "designation": "সহযোগী অধ্যাপক",
     "education": "পিএইচ.ডি (চট্টগ্রাম), এমফিল (চট্টগ্রাম), এমএ (চট্টগ্রাম), বিএ (চট্টগ্রাম)",
@@ -8,7 +8,7 @@
     "image": "https://res.cloudinary.com/ddcbwt3lt/image/upload/v1748356759/2_euo3x1.jpg"
   },
   {
-    "id": "2",
+    "id": "3",
     "name": "লায়লা ফেরদৌস",
     "designation": "সহকারী অধ্যাপক",
     "education": "এমফিল (জাবি), এমএ, বিএ (সম্মান) জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
@@ -16,8 +16,8 @@
     "image": "https://res.cloudinary.com/ddcbwt3lt/image/upload/v1748356783/2_2037_kwktzr.jpg"
   },
   {
-    "id": "3",
-    "name": "মাইনুল ইসলাম",
+    "id": "1",
+    "name": "মোঃ মাইনুল ইসলাম",
     "designation": "সহকারী অধ্যাপক এবং বিভাগীয় প্রধান",
     "education": "এমএ (ঢাবি), বিএ (ঢাবি)",
     "email": "mainul02hj@gmail.com",

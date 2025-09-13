@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "batchName": "Batch 01",
+    "year": "2024",
+    "pdfLinkPublication": "https://drive.google.com/file/d/1LLguEPtB5IgK7DHmN8OSVZ1pjo2DmYky/view?usp=sharing",
+    "description": "Pioneer batch of Department of Bangla graduates specializing in Bengali Literature and Language Studies",
+    "pdfLinkDir": "https://drive.google.com/file/d/1sQRGFFc4xRbhz9h91EtG1shSOji6VKSr/view?usp=sharing",
+    "totalStudents": 34,
+    "notableAchievements": [
+      "Research publications in Bengali literature",
+      "Academic excellence in language studies",
+      "Cultural contributions to Bengali heritage"
+    ]
+  }
+]
